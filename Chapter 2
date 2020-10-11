@@ -62,6 +62,20 @@ print(np.sqrt(variance))
 # Print the standard deviation
 print(np.std(versicolor_petal_length))
 
+#Covariance and the Pearson correlation coefficient
+
+# Make a scatter plot
+_ = plt.plot(versicolor_petal_length, versicolor_petal_width, marker = '.', linestyle = 'none')
+
+
+# Label the axes
+_ = plt.xlabel('Versicolor petal length (cm)')
+_ = plt.ylabel('Versicolor petal width (cm)')
+
+
+# Show the result
+plt.show()
+
 
 
 
