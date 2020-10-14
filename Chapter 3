@@ -72,3 +72,7 @@ _ = plt.ylabel('probability')
 # Show the plot
 plt.show()
 
+#Probability distributions and stories: The Binomial distribution
+
+
+
