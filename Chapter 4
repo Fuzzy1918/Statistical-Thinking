@@ -62,3 +62,6 @@ prob = np.sum(samples <= 144)/1000000
 # Print the result
 print('Probability of besting Secretariat:', prob)
 
+#The Exponential distribution
+
+
